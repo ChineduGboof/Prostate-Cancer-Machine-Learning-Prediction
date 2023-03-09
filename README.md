@@ -1,11 +1,12 @@
 # HealAThon-Team-K
-
-![prostate_cancer](https://user-images.githubusercontent.com/111196709/223775929-1f16162e-3d85-400b-af25-c087984b4fac.jpeg)
+![HealAthon](https://user-images.githubusercontent.com/111196709/224006178-b3ddebbf-b87e-48b3-9edd-8489d68d30d8.jpeg)
 
 ## Introduction: 
 
 Prostate cancer is a prevalent type of cancer that affects men, and early detection is essential for effective treatment.
 One way to predict prostate cancer is through the log of prostate-specific antigen (PSA) levels, as elevated PSA levels can indicate the presence of cancer. 
+
+![prostate_cancer](https://user-images.githubusercontent.com/111196709/223775929-1f16162e-3d85-400b-af25-c087984b4fac.jpeg)
 
 This project involves the steps taken to predict the log of PSA (lpsa) from a set of measurements including log cancer volume (lcavol), log prostate weight (lweight), age, log of benign prostatic hyperplasia amount (lbph), seminal vesicle invasion (svi), log of capsular penetration (lcp), Gleason score (gleason), and percent of Gleason scores 4 or 5 (pgg45). 
 
