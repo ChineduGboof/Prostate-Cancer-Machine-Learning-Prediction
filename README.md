@@ -1,4 +1,5 @@
 # HealAThon-Team-K
+![Healathon Award](https://user-images.githubusercontent.com/111196709/228958734-85033741-0e75-4862-911d-90e58eec6ce3.jpeg)
 ![HealAthon](https://user-images.githubusercontent.com/111196709/224006178-b3ddebbf-b87e-48b3-9edd-8489d68d30d8.jpeg)
 
 ## Introduction: 
